@@ -37,3 +37,11 @@ export interface FilterProps {
   limit: number;
   model: string;
 }
+export interface OptionsPops {
+  title: string;
+  value: string;
+}
+export interface CustomFilterProps {
+  title: string;
+  options: OptionsPops[];
+}
