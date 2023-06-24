@@ -37,11 +37,6 @@ npm start
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## 🚀 How to use
-
-```sh
-npx create-react-native-app -t with-router
-```
 
 ## 📝 Learn More
 
